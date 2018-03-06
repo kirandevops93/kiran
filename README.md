@@ -5,3 +5,4 @@ lopo
 loko
 lopopo
 kiran
+kigi
