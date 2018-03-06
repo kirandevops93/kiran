@@ -2,3 +2,4 @@
 kishore
 kishore
 lopo
+loko
