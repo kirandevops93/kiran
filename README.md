@@ -6,3 +6,4 @@ loko
 lopopo
 kiran
 kigi
+lopij
